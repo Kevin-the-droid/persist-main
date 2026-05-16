@@ -1,5 +1,4 @@
-# Appletta 
-
+# Persist
 **An AI agent management system with sophisticated memory architecture for use with local models using Apple's mlx-lm**
 
 
